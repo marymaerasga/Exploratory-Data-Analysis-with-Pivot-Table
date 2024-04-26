@@ -35,9 +35,10 @@ The dataset have comprises of sales records for the past two years, including th
   In analyzing the data I used the Pivot Table.
   
   ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/4063d1af-2941-424a-b6e4-9b3c37a35b9a)
-  - The table shows sales metrics for 2020 and 2021, including total quantity sold, total sales revenue, and average sales. In 2020, 2,274,438 units were sold, generating $339,249,734, with an average sales value of 125,648. In 2021, sales increased to 2,402,000 units, resulting in $361,109,157 in total revenue, with an average of 145,903. The grand total for both years is 4,676,438 units sold, accumulating $700,358,891, with an average of 135,335. Overall, sales volume and revenue grew from 2020 to 2021, indicating a positive trend.			
+- The table shows sales metrics for 2020 and 2021, including total quantity sold, total sales revenue, and average sales. In 2020, 2,274,438 units were sold, generating $339,249,734, with an average sales value of 125,648. In 2021, sales increased to 2,402,000 units, resulting in $361,109,157 in total revenue, with an average of 145,903. The grand total for both years is 4,676,438 units sold, accumulating $700,358,891, with an average of 135,335. Overall, sales volume and revenue grew from 2020 to 2021, indicating a positive trend.			
 
   ***What Channel had the highest sales in 2021?***
+  
   ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/837403ac-c69e-45ca-803b-056bd4973f8c)
 
 
