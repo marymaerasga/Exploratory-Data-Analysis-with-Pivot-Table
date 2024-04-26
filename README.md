@@ -1,4 +1,4 @@
-![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/57816492-d889-4554-8d23-037f663998b5)## Exploratory Data Analysis (EDA): DSA Bottled Drinking Water, Inc. Sales Data 2020–2021
+## Exploratory Data Analysis (EDA): DSA Bottled Drinking Water, Inc. Sales Data 2020–2021
 
 ## Learning Journey
 This project is inspired by my self-study journey into Microsoft Excel and data analytics. I participated in free training videos provided by DataSense Analytics, focusing on the Microsoft Office Specialist: Excel Associate (MO-200). This training provided a comprehensive understanding of Excel features and functionality.
@@ -18,8 +18,8 @@ This project focuses on exploratory data analysis (EDA) for the sales data of DS
 ## Data 
 The dataset have comprises of sales records for the past two years, including the date, location, manager, product name, product category, quantity sold, and revenue generated.
 
-![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/3a41e17f-a8bd-4970-811f-74f4a3a13bcc)
 ## Raw Data
+![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/3a41e17f-a8bd-4970-811f-74f4a3a13bcc)
 
 ## Questions
 1. What Channel had the highest sales in 2021?
