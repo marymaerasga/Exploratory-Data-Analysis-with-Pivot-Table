@@ -67,7 +67,8 @@ The dataset have comprises of sales records for the past two years, including th
   ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/932bc71d-fe7c-4565-b01c-247c27a0cb3d)
     - After Analyzing the data with Pivot Table I designed the Dashboard for visualizations. I used the tone of color "Yellow Green" themes for my dashboard as it suit for the company preference. I also layout the dashboard as the best as I can so that the Sales Director understand easily and helped them to make a data-driven decisions.
  
-I am open for your constructive criticism, and comments on my work :)
+
+Big thanks to the DataSense Analytics especially Sir Abraham Avila Jr. for this kind of opportunity to venture and learn Microsoft Excel in Data Analytics. And I am open for your constructive criticism, and comments on my work. Thank you! :>
 
  
   
