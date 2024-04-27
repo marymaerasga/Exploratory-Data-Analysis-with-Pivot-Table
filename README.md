@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA): DSA Bottled Drinking Water, Inc. Sales Data 2020–2021
+![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/1c800414-491a-42be-ae14-d5102c3b0fb4)# Exploratory Data Analysis (EDA): DSA Bottled Drinking Water, Inc. Sales Data 2020–2021
 
 ### Learning Journey
 This project is inspired by my self-study journey into Microsoft Excel and data analytics. I participated in free training videos provided by DataSense Analytics, focusing on the Microsoft Office Specialist: Excel Associate (MO-200). This training provided a comprehensive understanding of Excel features and functionality.
@@ -35,13 +35,45 @@ The dataset have comprises of sales records for the past two years, including th
   In analyzing the data I used the Pivot Table.
   
   ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/4063d1af-2941-424a-b6e4-9b3c37a35b9a)
-- The table shows sales metrics for 2020 and 2021, including total quantity sold, total sales revenue, and average sales. In 2020, 2,274,438 units were sold, generating $339,249,734, with an average sales value of 125,648. In 2021, sales increased to 2,402,000 units, resulting in $361,109,157 in total revenue, with an average of 145,903. The grand total for both years is 4,676,438 units sold, accumulating $700,358,891, with an average of 135,335. Overall, sales volume and revenue grew from 2020 to 2021, indicating a positive trend.			
+    - The table above shows sales metrics for 2020 and 2021, including total quantity sold, total sales revenue, and average sales. In 2020, 2,274,438 units were sold, generating $339,249,734, with an average sales value of 125,648. In 2021, sales increased to 2,402,000 units, resulting in $361,109,157 in total revenue, with an average of 145,903. The grand total for both years is 4,676,438 units sold, accumulating $700,358,891, with an average of 135,335. Overall, sales volume and revenue grew from 2020 to 2021, indicating a positive trend.			
 
   ***What Channel had the highest sales in 2021?***
   
-  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/837403ac-c69e-45ca-803b-056bd4973f8c)
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/db6e6b85-4990-4dd7-9b12-5c4e14bd8c75)
+    - As can you see on the table above the Channel had the highest sales in 2021 is Traditional Trade with $12.74M generated product sales. Hence, the lowest sales generated is Ex-Factory with $1.49M. 
+
+   ***What Product had the highest sales in 2020?***
+
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/93029857-5c04-4c61-aa08-019c98bdfbc3)
+    - In the year 2020 the product "DSE 330ml x 40" had the highest sales generated $9.88M.
+ 
+    ***In 2020 what month had made the highest sales?***
+
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/dca8fe6a-4353-475c-8c11-adc105c499cf)
+    - In 2020 the month of December and January had the highest sales.
+ 
+    ***What was the % Sales contribution of Wholsale in year 2021?***
+
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/29a2d5e3-2c0a-4e34-8c9b-93749ebd2aa0)
+    - In the year 2021 the & Sales Contribution of Wholesale is 28.10%
+ 
+    ***Who was the sales manager that made highest Sales in 2021?***
+
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/6a999577-c0b4-410d-ad0c-4289325b2420)
+    - Christian Rosario leads with a total sales amount of $12.17M in the year of 2021
+ 
+  ### Dashboard
+
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/d5d7b3a8-724b-486f-8a71-853af8dce20b)
+    - After Analyzing the data with Pivot Table I designed the Dashboard for visualizations. I used the tone of color "Yellow Green" themes for my dashboard as it suit for the company preference. I also layout the dashboard as the best as I can so that the Sales Director understand easily and helped them to make a data-driven decisions.
+ 
+  
+  
 
 
+
+  
+  
   
   
 
