@@ -1,4 +1,4 @@
-![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/1c800414-491a-42be-ae14-d5102c3b0fb4)# Exploratory Data Analysis (EDA): DSA Bottled Drinking Water, Inc. Sales Data 2020–2021
+## Exploratory Data Analysis (EDA): DSA Bottled Drinking Water, Inc. Sales Data 2020–2021
 
 ### Learning Journey
 This project is inspired by my self-study journey into Microsoft Excel and data analytics. I participated in free training videos provided by DataSense Analytics, focusing on the Microsoft Office Specialist: Excel Associate (MO-200). This training provided a comprehensive understanding of Excel features and functionality.
@@ -64,8 +64,11 @@ The dataset have comprises of sales records for the past two years, including th
  
   ### Dashboard
 
-  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/d5d7b3a8-724b-486f-8a71-853af8dce20b)
+  ![image](https://github.com/marymaerasga/Exploratory-Data-Analysis-with-Pivot-Table-in-Action-/assets/86357387/932bc71d-fe7c-4565-b01c-247c27a0cb3d)
     - After Analyzing the data with Pivot Table I designed the Dashboard for visualizations. I used the tone of color "Yellow Green" themes for my dashboard as it suit for the company preference. I also layout the dashboard as the best as I can so that the Sales Director understand easily and helped them to make a data-driven decisions.
+ 
+I am open for your constructive criticism, and comments on my work :)
+
  
   
   
